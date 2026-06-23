@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0437-path-sum-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0437-path-sum-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -18,5 +20,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0437-path-sum-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
