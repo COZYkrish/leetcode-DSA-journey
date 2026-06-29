@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
