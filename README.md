@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0841-keys-and-rooms) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -56,10 +58,24 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0841-keys-and-rooms) |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
+## String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
