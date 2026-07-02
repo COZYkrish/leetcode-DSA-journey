@@ -100,8 +100,21 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
