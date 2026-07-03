@@ -18,8 +18,10 @@ class SmallestInfiniteSet {
             set.remove(val);
             return val;
         }
+
         return current++;
     }
+
     public void addBack(int num) {
         if (num < current && !set.contains(num)) {
             pq.offer(num);
