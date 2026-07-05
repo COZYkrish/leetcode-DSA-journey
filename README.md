@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2463-minimum-total-distance-traveled](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2463-minimum-total-distance-traveled) |
 ## Binary Search Tree
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
