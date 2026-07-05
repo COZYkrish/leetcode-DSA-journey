@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2463-minimum-total-distance-traveled](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2463-minimum-total-distance-traveled) |
 ## Binary Search Tree
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
 |  |
