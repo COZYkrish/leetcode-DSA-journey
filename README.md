@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
