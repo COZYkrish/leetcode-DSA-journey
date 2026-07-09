@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2463-minimum-total-distance-traveled](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2463-minimum-total-distance-traveled) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0216-combination-sum-iii) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
+| [0746-min-cost-climbing-stairs](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
