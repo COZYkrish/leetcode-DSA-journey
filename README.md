@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0198-house-robber) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0062-unique-paths) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
