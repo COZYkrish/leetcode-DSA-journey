@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [1143-longest-common-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1143-longest-common-subsequence) |
 ## Shortest Path
@@ -143,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0338-counting-bits) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
