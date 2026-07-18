@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0700-search-in-a-binary-search-tree) |
+| [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Graph Theory
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0994-rotting-oranges) |
+| [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [1143-longest-common-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1143-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2463-minimum-total-distance-traveled) |
 | [2542-maximum-subsequence-score](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2542-maximum-subsequence-score) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2542-maximum-subsequence-score) |
@@ -206,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
