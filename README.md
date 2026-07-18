@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0338-counting-bits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0790-domino-and-tromino-tiling) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0216-combination-sum-iii) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0994-rotting-oranges) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2463-minimum-total-distance-traveled) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
