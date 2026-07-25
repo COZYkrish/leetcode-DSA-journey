@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0704-binary-search) |
 | [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Graph Theory
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0704-binary-search](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0746-min-cost-climbing-stairs) |
