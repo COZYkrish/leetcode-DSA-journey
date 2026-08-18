@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1683-invalid-tweets](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
