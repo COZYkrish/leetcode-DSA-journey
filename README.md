@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0162-find-peak-element) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0088-merge-sorted-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2462-total-cost-to-hire-k-workers) |
