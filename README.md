@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0216-combination-sum-iii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Simulation
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
