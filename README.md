@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0435-non-overlapping-intervals) |
