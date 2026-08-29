@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0274-h-index) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
