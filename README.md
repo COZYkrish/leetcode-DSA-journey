@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0274-h-index) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -176,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [1137-n-th-tribonacci-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
 |  |
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0274-h-index](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
