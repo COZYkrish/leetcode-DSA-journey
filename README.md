@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0338-counting-bits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
+| [0392-is-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0746-min-cost-climbing-stairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [1143-longest-common-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0392-is-subsequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Simulation
