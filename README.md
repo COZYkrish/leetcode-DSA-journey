@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0700-search-in-a-binary-search-tree) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0198-house-robber) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0392-is-subsequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
