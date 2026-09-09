@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0162-find-peak-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0700-search-in-a-binary-search-tree) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0238-product-of-array-except-self) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0238-product-of-array-except-self) |
 ## String Matching
 |  |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
