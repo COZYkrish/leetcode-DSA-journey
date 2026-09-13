@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0189-rotate-array) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
