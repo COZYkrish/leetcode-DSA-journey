@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0289-game-of-life) |
 | [0376-wiggle-subsequence](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0289-game-of-life) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Interactive
 |  |
