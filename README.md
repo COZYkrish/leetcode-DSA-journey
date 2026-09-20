@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
