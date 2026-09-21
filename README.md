@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0901-online-stock-span) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
