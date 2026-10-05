@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0048-rotate-image) |
@@ -465,9 +466,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
