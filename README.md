@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
