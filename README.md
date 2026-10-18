@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0162-find-peak-element](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0173-binary-search-tree-iterator](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0450-delete-node-in-a-bst) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0901-online-stock-span) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0901-online-stock-span) |
@@ -546,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
