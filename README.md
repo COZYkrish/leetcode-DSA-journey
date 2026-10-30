@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0841-keys-and-rooms) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0841-keys-and-rooms) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0704-binary-search) |
 | [1268-search-suggestions-system](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/1268-search-suggestions-system) |
