@@ -1,25 +1,28 @@
 class Solution {
-    private final String[] map = {
-        "", "", "abc", "def", "ghi",
-        "jkl", "mno", "pqrs", "tuv", "wxyz"
+    private static final String[] MAPPING = {
+        "",     "",     "abc",  "def", 
+        "ghi",  "jkl",  "mno",  "pqrs", 
+        "tuv",  "wxyz"
     };
     public List<String> letterCombinations(String digits) {
-        List<String> ans = new ArrayList<>();
-
-        if (digits == null || digits.length() == 0)
-            return ans;
-        backtrack(digits, 0, new StringBuilder(), ans);
-        return ans;
+        List<String> result = new ArrayList<>();
+        if (digits == null || digits.isEmpty()) {
+            return result;
+        }
+        backtrack(digits, 0, new StringBuilder(), result);
+        return result;
     }
-    private void backtrack(String digits, int index, StringBuilder current, List<String> ans) {
+
+    private void backtrack(String digits, int index, StringBuilder current, List<String> result) {
         if (index == digits.length()) {
-            ans.add(current.toString());
+            result.add(current.toString());
             return;
         }
-        String letters = map[digits.charAt(index) - '0'];
-        for (char ch : letters.toCharArray()) {
-            current.append(ch);
-            backtrack(digits, index + 1, current, ans);
+
+        String letters = MAPPING[digits.charAt(index) - '0'];
+        for (int i = 0; i < letters.length(); i++) {
+            current.append(letters.charAt(i));
+            backtrack(digits, index + 1, current, result);
             current.deleteCharAt(current.length() - 1);
         }
     }
