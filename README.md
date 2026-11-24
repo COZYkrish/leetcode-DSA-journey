@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0216-combination-sum-iii) |
@@ -651,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0127-word-ladder) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
