@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0062-unique-paths) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0049-group-anagrams) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0052-n-queens-ii) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/COZYkrish/leetcode-DSA-journey/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
